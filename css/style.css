@@ -1,10 +1,10 @@
-@import url(/node_modules/animate.css/animate.min.css);
+@import url(animate.min.css);
 @import url(bootstrap.css);
 @import url(font-awesome.css);
 @import url(jquery.fancybox.css);
 @import url(lightgallery.min.css);
 @import url(settings.css);
-@import '../node_modules/swiper/swiper-bundle.css';
+@import url(swiper-bundle.css);
 
 body {
 	font-size: 16px;
